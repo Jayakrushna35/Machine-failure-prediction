@@ -1,0 +1,22 @@
+{
+  "name": "e-book",
+  "version": "1.0.0",
+  "description": "\"This is a ebook website\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Jayakrushna Pattnaik <jayakrushnapattnaik42@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
